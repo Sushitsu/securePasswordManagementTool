@@ -18,15 +18,20 @@ git clone https://github.com/your-username/secure-password-management-tool.git
 
 2. Navigate to the project directory :
  ```bash
-cd secure-password-management-tool
+cd securePasswordManagementTool
 ```
 
-3. Run the main script :
+3. Install the cryptography library if you haven't already :
+```bash
+pip install cryptography
+```
+
+4. Run the main script :
 ```bash
 python main.py
 ```
 
-4. Follow the on-screen instructions to perform various operations.
+5. Follow the on-screen instructions to perform various operations.
 
 
 ## Contribution
