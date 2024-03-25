@@ -1,3 +1,4 @@
+# Import libraries
 import os.path
 import random
 from cryptography.fernet import Fernet
