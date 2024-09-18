@@ -44,6 +44,11 @@ python main.py
 
 <br>
 
+## :hammer: Tech Used 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<br>
+
 ## :star2: Contribution
 Contributions are welcome ! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
 
