@@ -6,7 +6,7 @@
 <br>
 
 ## :zap: Description
-This is asimple password management tool written in Python. It allows users to generate, save, read, and delete passwords securely.
+This is a simple password management tool written in Python. It allows users to generate, save, read, and delete passwords securely.
 
 <br>
 
