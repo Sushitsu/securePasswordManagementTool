@@ -5,12 +5,12 @@
 
 <br>
 
-## Description
+## :zap: Description
 This is asimple password management tool written in Python. It allows users to generate, save, read, and delete passwords securely.
 
 <br>
 
-## Features
+## :electric_plug: Features
 - **Generate passwords** : Select this option to generate a random password.
 - **Save passwords** : Save a generated password with a custom name to a file.
 - **Read passwords** : Retrieve a password from the file by providing its custom name.
@@ -19,7 +19,7 @@ This is asimple password management tool written in Python. It allows users to g
 
 <br>
 
-## How to Use
+## :hammer: How to Use
 1. Clone the repository to your local machine :
 ```bash
 git clone https://github.com/your-username/secure-password-management-tool.git
@@ -44,11 +44,11 @@ python main.py
 
 <br>
 
-## Contribution
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
+## :star2: Contribution
+Contributions are welcome ! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
 
 <br>
 
-## License
+## :lock: License
 This project is licensed under the [MIT License](LICENSE).
 
